@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "nuxt-on-fire",
+    "nuxt-on-fire": "nuxt-on-fire-a373f"
+  }
+}
