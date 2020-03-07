@@ -1,11 +1,11 @@
 # nuxt-vuetify-firebase-ssr
 Nuxt on fire is a template to deploy Nuxt SSR Websites using Firebase hosting
 # Install dependencies in functions dir
-`$ cd functions `
-`$ npm i install `
+`$ cd functions`
+`$ npm i install`
 # Install dependencies in src dir
-`$ cd src `
-`$ npm i install `
+`$ cd src`
+`$ npm i install`
 # Change firebase project ID
 > on the root folder 
 `$ firebase login`
